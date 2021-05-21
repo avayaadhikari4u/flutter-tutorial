@@ -14,7 +14,7 @@ class LoginPage extends StatelessWidget {
             fit: BoxFit.cover,
           ),
           Text(
-            "Please Login",
+            "Welcome to U-Mart Please Login",
             style: TextStyle(
               fontSize: 15,
               fontWeight: FontWeight.bold, //flutter sementing versonl
